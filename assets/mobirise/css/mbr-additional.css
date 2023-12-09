@@ -3,8 +3,9 @@ body {
 }
 .display-1 {
   font-family: 'DM Sans', sans-serif;
-  font-size: 4.6rem;
-  line-height: 1.1;
+  font-size: 3.6rem;
+  font-weigt: 600;
+  letter-spacing:-2px;
 }
 .display-1 > .mbr-iconfont {
   font-size: 5.75rem;
