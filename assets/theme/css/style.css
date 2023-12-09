@@ -899,6 +899,7 @@ blockquote {
 }
 @media (min-width: 768px) {
   .container-fluid {
+    height: 68px;
     padding-left: 32px;
     padding-right: 32px;
   }
