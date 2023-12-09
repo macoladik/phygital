@@ -58,14 +58,18 @@ a, a:hover {
   line-height: 1.7;
 }
 
-h1,
+.display-2 {
+  font-size: 75px;
+  font-weght: 900;
+  color: #ffffff;
+  text-align: center;
+	
+}	
+
 h2,
-h3,
 h4,
 h5,
 h6,
-.display-1,
-.display-2,
 .display-4,
 .display-5,
 .display-7,
